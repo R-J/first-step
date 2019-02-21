@@ -1,0 +1,1 @@
+In order to use this you either have to clone this repo into `/plugins/first-step` or you have to download the master.zip file, unzip it to the `/plugins` folder and rename `/plugins/first-step-master` to `/plugins/first-step`
