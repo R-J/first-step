@@ -1,0 +1,13 @@
+{
+    "name": "First Step",
+    "key": "first-step",
+    "description": "Provide a frame for you first steps with Vanilla plugin development",
+    "version": "0.0.1",
+    "license": "MIT",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "You!"
+        }
+    ]
+}
